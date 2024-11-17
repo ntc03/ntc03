@@ -44,7 +44,7 @@ Here are a few of the projects I’ve worked on so far:
 3. **Excel Life Insurance Pricing Model**  
    - VBA-based pricing calculator to automate calculations and log results across various scenarios.
    - Analyzed mortality rates and sensitivity factors (age, sex, and smoking) to explore their impact on life insurance pricing calculations
-   - [View Project](link-to-repository)
+   - [View Project](https://github.com/ntc03/Excel-Life-Insurance-Pricing-Model)
 
 ---
 
