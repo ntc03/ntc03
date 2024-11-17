@@ -57,7 +57,7 @@ Here are a few of the projects I’ve worked on so far:
 
 ### 📫 **Let’s Connect**
 - 📧 ntc@ucsb.edu
-- 💼 [LinkedIn Profile](www.linkedin.com/in/nathanchou03)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/nathanchou03)
 
 ---
 
