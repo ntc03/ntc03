@@ -34,12 +34,11 @@ Here are a few of the projects I’ve worked on so far:
    - Currently learning basics of supervised machine learning techniques and implementing Recursive Feature Elimination (RFE) for feature selection 
    - Utilized Python libraries such as Pandas, Seaborn, and Matplotlib for data analysis and visualization
    - Performed statistical analysis to identify key risk factors affecting health insurance costs and enhance predictive accuracy
-   - [View Project](link-to-repository)
+   - [View Project](https://github.com/ntc03/Health-Insurance-Cost-Prediction-Model)
 
 2. **Python GUI Insurance Pricing Calculator**  
    - Interactive user interface using Tkinter to calculate insurance premiums based on user inputs 
    - Used Pandas and openpyxl to access Excel mortality tables for calculations and logging results back to Excel
-   - [View Project](link-to-repository)
 
 3. **Excel Life Insurance Pricing Model**  
    - VBA-based pricing calculator to automate calculations and log results across various scenarios.
